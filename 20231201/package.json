@@ -1,0 +1,7 @@
+{
+  "name": "challenge01",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "challenge.js",
+  "dependencies": {}
+}
